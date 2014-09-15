@@ -1,4 +1,5 @@
-[Marked](https://github.com/chjj/marked) library packaged for Meteor.
+[marked](https://github.com/chjj/marked) library packaged for Meteor.
 =================
 
-Meteor package adding `Marked@0.3.2` library to client.
+Meteor package adding `marked@0.3.2` library to client.
+Package version is equivalent to `marked` version.
