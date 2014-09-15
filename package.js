@@ -1,7 +1,8 @@
 Package.describe({
   summary: "Marked - parser and compiler for Markdown",
   version: "0.3.2",
-  git: "https://github.com/parhelium/package-marked"
+  git: "https://github.com/parhelium/package-marked",
+  name: "parhelium:marked"
 });
 
 Package.onUse(function(api) {
