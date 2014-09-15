@@ -7,6 +7,6 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.1.1');
   api.addFiles('lib/marked.js');
-//  api.export('marked', 'client')
+  api.export('marked', 'client')
 });
 
